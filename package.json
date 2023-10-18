@@ -1,6 +1,7 @@
 {
   "name": "@scaleton/tree-sitter-func",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "license": "GPL-3.0",
   "files": [
     "lib"
   ],
@@ -15,5 +16,7 @@
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2",
     "web-tree-sitter": ">=0.20.0"
-  }
+  },
+  "license": "GPL-3.0",
+  "packageManager": "yarn@3.4.1"
 }
